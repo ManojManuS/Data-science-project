@@ -509,6 +509,12 @@ Department of CSE, MIT Mysore)
   - Suhas R (USN: 4MH21CS104)(https://github.com/suhasrgowda)
 
 #### Screenshots
+![Screenshot (37)](https://github.com/user-attachments/assets/6d583051-1f3e-41e1-bd8e-f1d5e0eac88b)
+![Screenshot (38)](https://github.com/user-attachments/assets/2cac1137-0d87-4621-8f31-75549670295f)
+![Screenshot (39)](https://github.com/user-attachments/assets/01791869-dcb3-40a6-b0dc-60e5fbe0fbf2)
+![Screenshot (40)](https://github.com/user-attachments/assets/c4cb7e83-cfc8-43d2-a4fd-72041519e868)
+![Screenshot (41)](https://github.com/user-attachments/assets/563818bf-0e8c-446a-b5e8-e6a8a297e1e5)
+
 
 
 
